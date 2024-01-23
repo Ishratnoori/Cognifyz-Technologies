@@ -1,6 +1,7 @@
 # Cognifyz-Technologies
 
 PROJECT SUMMARY:
+
 Level 1: Data Exploration and Analysis
 
 Conducted comprehensive data exploration and preprocessing to ensure data integrity.
